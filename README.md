@@ -13,12 +13,13 @@ Estudiante de Ingeniería en Informática (UTEM), egreso proyectado en diciembre
 [![CV](https://img.shields.io/badge/📄_Descargar_CV-2E9EF7?style=for-the-badge)](https://github.com/tvasquezm/tvasquezm/raw/main/CV_Tomas_Vasquez_Madrid.pdf)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmms.vasquez@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasvasquezm/)
+[![GitHub followers](https://img.shields.io/github/followers/tvasquezm?style=for-the-badge&color=2E9EF7&labelColor=1a1a1a)](https://github.com/tvasquezm)
 
 <img src="https://komarev.com/ghpvc/?username=tvasquezm&color=2E9EF7&style=flat-square&label=Visitas+al+perfil" alt="Visitor Count"/>
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2E9EF7&height=3&section=header&width=100%" width="100%"/>
 
 ## 🛠️ Skills & Tecnologías
 
@@ -41,6 +42,33 @@ Estudiante de Ingeniería en Informática (UTEM), egreso proyectado en diciembre
 
 <br>
 
+<table align="center">
+<tr>
+<td align="center" width="200">
+
+🎓<br>**Egreso**<br>Dic. 2026
+
+</td>
+<td align="center" width="200">
+
+📌<br>**Proyecto de Título**<br>Observatorio UX
+
+</td>
+<td align="center" width="200">
+
+🌱<br>**Aprendiendo**<br>Testing E2E & TypeScript
+
+</td>
+<td align="center" width="200">
+
+💬<br>**Pregúntame sobre**<br>RAG, LLMs & React
+
+</td>
+</tr>
+</table>
+
+<br>
+
 ## 🚀 Proyectos Destacados
 
 ### 🤖 [BARB](https://github.com/tvasquezm/BARB) — Abril 2026 – Julio 2026
@@ -59,9 +87,9 @@ Formulé la propuesta de grado y el diseño arquitectónico de una plataforma pa
 **Plataforma web comercial para un negocio local (catálogo de ~50 productos).**
 Diseñé y estructuré las plantillas HTML/CSS del catálogo y del panel de administración, lideré la migración del backend de Node.js a **PHP**, e implementé un CRUD completo para la gestión de productos sobre un entorno **XAMPP** (Apache, MySQL/MariaDB, PHP).
 
-> 💡 **Tip:** fija (pin) estos 4 repos desde tu perfil de GitHub (Customize your pins) para que aparezcan como tarjetas destacadas arriba de este README.
-
 <br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2E9EF7&height=3&section=header&width=100%" width="100%"/>
 
 ## 📊 Estadísticas de GitHub
 
@@ -79,7 +107,7 @@ Diseñé y estructuré las plantillas HTML/CSS del catálogo y del panel de admi
 ### 🏆 Trofeos
 
 <div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=tvasquezm&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trofeos de GitHub"/>
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=tvasquezm&theme=tokyonight" alt="Trofeos de GitHub"/>
 </div>
 
 <br>
