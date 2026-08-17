@@ -31,14 +31,40 @@ Estudiante de Ingeniería en Informática (UTEM), egreso proyectado en diciembre
 
 <br>
 
-**Frontend** — Gestión de estado, internacionalización (i18n), diseño responsivo, consumo de APIs REST
-**Backend & APIs** — REST APIs, JWT, OpenAPI (YAML), microservicios, control de concurrencia e idempotencia
-**Bases de Datos** — SQL, MySQL / MariaDB, modelado relacional
-**Cloud & Despliegue** — Docker, Vercel, Render, Git, XAMPP
-**UX / UI** — Wireframing y prototipado (Figma, Stitch), investigación de usuarios, pruebas de usabilidad
-**Inteligencia Artificial** — Arquitecturas RAG (Retrieval-Augmented Generation), integración de LLMs (locales y en la nube), Prompt Engineering, LM Studio, Vector Stores
-**Testing y Validación** — Postman (Mock Environments, pruebas de integración automatizadas, casos exitosos y de error)
-**Análisis & Negocios** — Modelado financiero de proyectos, simulaciones de flujo de caja, redacción técnica bajo normativas IEEE
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+**🎨 Frontend**
+Gestión de estado · i18n · Diseño responsivo · APIs REST
+
+**⚙️ Backend & APIs**
+JWT · OpenAPI (YAML) · Microservicios · Concurrencia e idempotencia
+
+**🗄️ Bases de Datos**
+SQL · MySQL / MariaDB · Modelado relacional
+
+**☁️ Cloud & Despliegue**
+Docker · Vercel · Render · Git · XAMPP
+
+</td>
+<td valign="top" width="50%">
+
+**🎯 UX / UI**
+Wireframing (Figma, Stitch) · Investigación de usuarios · Usabilidad
+
+**🤖 Inteligencia Artificial**
+Arquitecturas RAG · Integración de LLMs · Prompt Engineering · LM Studio · Vector Stores
+
+**🧪 Testing y Validación**
+Postman · Mock Environments · Pruebas de integración automatizadas
+
+**📈 Análisis & Negocios**
+Modelado financiero · Flujo de caja · Redacción técnica IEEE
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -107,7 +133,7 @@ Diseñé y estructuré las plantillas HTML/CSS del catálogo y del panel de admi
 ### 🏆 Trofeos
 
 <div align="center">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=tvasquezm&theme=tokyonight" alt="Trofeos de GitHub"/>
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=tvasquezm&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trofeos de GitHub"/>
 </div>
 
 <br>
@@ -116,6 +142,14 @@ Diseñé y estructuré las plantillas HTML/CSS del catálogo y del panel de admi
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tvasquezm&theme=tokyo-night&hide_border=true" alt="Gráfico de actividad"/>
+</div>
+
+<br>
+
+### 🐍 Mi año en contribuciones
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tvasquezm/tvasquezm/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </div>
 
 <br>
