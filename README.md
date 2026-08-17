@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=200&section=header&text=Tomás%20Vásquez%20Madrid&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20·%20Backend%20·%20IA%20Aplicada%20(RAG%20/%20LLM)&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+en+Inform%C3%A1tica+(UTEM);Frontend+%7C+Backend+%7C+IA+Aplicada;Construyendo+con+React%2C+Node.js+y+LLMs" alt="Typing SVG" />
+
 📍 San Bernardo, Santiago, Chile &nbsp;·&nbsp; 🌐 Español (nativo) · Inglés (B1)
 
 Estudiante de Ingeniería en Informática (UTEM), egreso proyectado en diciembre de 2026. Desarrollo interfaces con **React** y APIs REST en **Node.js, Python y PHP**, integrando pipelines **RAG** y **LLMs** (locales y en la nube) en soluciones SaaS reales. Complemento el desarrollo con metodologías UX/UI (Figma, prototipado, investigación de usuarios) y testing de APIs con Postman.
@@ -70,7 +71,7 @@ Diseñé y estructuré las plantillas HTML/CSS del catálogo y del panel de admi
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak/?user=tvasquezm&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=tvasquezm&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
 </div>
 
 <br>
@@ -78,7 +79,7 @@ Diseñé y estructuré las plantillas HTML/CSS del catálogo y del panel de admi
 ### 🏆 Trofeos
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tvasquezm&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trofeos de GitHub"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=tvasquezm&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trofeos de GitHub"/>
 </div>
 
 <br>
