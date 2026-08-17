@@ -10,7 +10,7 @@ Estudiante de Ingeniería en Informática (UTEM), egreso proyectado en diciembre
 
 **🟢 Open to Work** — Buscando práctica profesional o primer empleo en Frontend, Backend/Full Stack o IA aplicada.
 
-[![CV](https://img.shields.io/badge/📄_Descargar_CV-2E9EF7?style=for-the-badge)](https://github.com/tvasquezm/tvasquezm/raw/main/CV_Tomas_Vasquez_Madrid.pdf)
+[![CV](https://img.shields.io/badge/📄_Ver_mi_CV_completo-2E9EF7?style=for-the-badge)](https://github.com/tvasquezm/cv)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmms.vasquez@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasvasquezm/)
 [![GitHub followers](https://img.shields.io/github/followers/tvasquezm?style=for-the-badge&color=2E9EF7&labelColor=1a1a1a)](https://github.com/tvasquezm)
