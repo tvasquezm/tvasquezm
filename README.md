@@ -37,19 +37,19 @@ Actualmente enfocado en el desarrollo de software de calidad (QA manual y automa
 
 ## 🚀 Proyectos Destacados
 
-### 🤖 [BARB](https://github.com/TU_USUARIO_DE_GITHUB/link-al-repo-barb)
+### 🤖 [BARB](https://github.com/tvasquezm/BARB)
 **Plataforma comercial SaaS para mantenimiento industrial predictivo.**
 Integración de IA utilizando un LLM local a través de LM Studio y pipelines de documentación RAG para optimizar la resolución de problemas en la industria.
 
-### 🛒 [Plataforma E-commerce Pyme](https://github.com/TU_USUARIO_DE_GITHUB/link-al-repo-ecommerce)
+### 🛒 [Plataforma E-commerce Pyme](https://github.com/tvasquezm/ecommerce-pyme)
 **Solución digital para la modernización de ventas y operaciones de un negocio local.**
 Desarrollo e ingeniería de la plataforma web, incluyendo la migración de la arquitectura del servidor de Node.js a PHP para la gestión de pruebas de bases de datos locales en XAMPP.
 
-### 📦 [InventarioG7](https://github.com/TU_USUARIO_DE_GITHUB/link-al-repo-inventariog7)
+### 📦 [InventarioG7](https://github.com/tvasquezm/InventarioG7)
 **Sistema de gestión de inventario.**
 Desarrollo orientado a la administración y el control eficiente de stock.
 
-### 🔬 [Framework de Investigación UX](https://github.com/TU_USUARIO_DE_GITHUB/link-al-repo-tesis)
+### 🔬 [Framework de Investigación UX](https://github.com/tvasquezm/Framework-UX)
 **Desarrollo de Tesis Académica.**
 Propuesta y despliegue de un framework SaaS web destinado a proveer herramientas de investigación para el Observatorio UX de la UTEM.
 
@@ -58,8 +58,8 @@ Propuesta y despliegue de un framework SaaS web destinado a proveer herramientas
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tvasquezm&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvasquezm&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
 </div>
 
 ---
