@@ -1,77 +1,70 @@
+<div align="center">
+  
 # ¡Hola! Soy Tomás Vásquez 👋
 
-🎓 Ingeniero en Informática (UTEM) | 🧪 QA · Full Stack · IA aplicada (LLMs & RAG)
+**🎓 Ingeniero en Informática (UTEM) | 🧪 QA · Full Stack · IA aplicada**
 
-Actualmente enfocado en el desarrollo de software de calidad (QA manual y automatizado), arquitecturas Full Stack y la integración de Inteligencia Artificial (LLMs y RAG) en soluciones SaaS. Adicionalmente, aplico modelado financiero para evaluar la viabilidad económica de proyectos tecnológicos.
+Actualmente enfocado en el desarrollo de software de calidad (QA manual y automatizado), arquitecturas Full Stack y la integración de Inteligencia Artificial en soluciones SaaS. Adicionalmente, aplico modelado financiero para evaluar la viabilidad económica de proyectos tecnológicos.
 
 🟢 **Open to Work** — Buscando nuevas oportunidades laborales en QA, Desarrollo y/o IA.
+
+</div>
 
 ---
 
 ## 🛠️ Skills & Tecnologías
 
-**Lenguajes & Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+**Lenguajes & Backend:**
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**Inteligencia Artificial**
-- LLMs locales · Arquitecturas RAG (Retrieval-Augmented Generation)
-- LM Studio · Vector Stores
+**Herramientas & Infraestructura:**
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 
-**Herramientas & Infraestructura**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-- XAMPP
+**Inteligencia Artificial:**
+> **LLMs Locales** · **Arquitecturas RAG** (Retrieval-Augmented Generation) · **LM Studio** · **Vector Stores**
 
-**Análisis y Negocios**
-- Excel avanzado (modelado financiero de proyectos, simulaciones de flujo de caja)
-
-**Metodologías**
-- Redacción técnica bajo normativas IEEE · Documentación QA
+**Análisis, Negocios y QA:**
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+* Modelado financiero de proyectos y simulaciones de flujo de caja.
+* Redacción técnica bajo normativas (IEEE).
+* Documentación y aseguramiento de calidad (QA).
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Proyectos Destacados
 
-### 🤖 BARB
-Plataforma comercial SaaS para mantenimiento industrial predictivo. Integración de IA utilizando un LLM local a través de LM Studio y pipelines de documentación RAG para optimizar la resolución de problemas en la industria.
-🔗 [Repositorio](https://github.com/tvasquezm/BARB)
+### 🤖 [BARB](https://github.com/TU_USUARIO_DE_GITHUB/link-al-repo-barb)
+**Plataforma comercial SaaS para mantenimiento industrial predictivo.**
+Integración de IA utilizando un LLM local a través de LM Studio y pipelines de documentación RAG para optimizar la resolución de problemas en la industria.
 
-### 🛒 Plataforma E-commerce Pyme
-Solución digital para la modernización de ventas y operaciones de un negocio local. Desarrollo e ingeniería de la plataforma web, incluyendo la migración de la arquitectura del servidor de Node.js a PHP para la gestión de pruebas de bases de datos locales en XAMPP.
-🔗 [Repositorio](https://github.com/tvasquezm/C_C)
+### 🛒 [Plataforma E-commerce Pyme](https://github.com/TU_USUARIO_DE_GITHUB/link-al-repo-ecommerce)
+**Solución digital para la modernización de ventas y operaciones de un negocio local.**
+Desarrollo e ingeniería de la plataforma web, incluyendo la migración de la arquitectura del servidor de Node.js a PHP para la gestión de pruebas de bases de datos locales en XAMPP.
 
-### 📍 Keritoo
-Startup móvil de geolocalización colaborativa. Conceptualización y diseño de una red en tiempo real para el rastreo de comida callejera y alertas comunitarias.
-🔗 [Repositorio](#) <!-- Reemplaza con el link si aplica -->
+### 📦 [InventarioG7](https://github.com/TU_USUARIO_DE_GITHUB/link-al-repo-inventariog7)
+**Sistema de gestión de inventario.**
+Desarrollo orientado a la administración y el control eficiente de stock.
 
-### 📦 InventarioG7
-Sistema de gestión de inventario.
-🔗 [Repositorio](https://github.com/tvasquezm/InventarioG7)
-
-### 🔬 Framework de Investigación UX
-Desarrollo de tesis académica: propuesta y despliegue de un framework SaaS web destinado a proveer herramientas de investigación para el Observatorio UX de la UTEM.
-🔗 [Repositorio](https://github.com/tvasquezm/observatorio-ux)
+### 🔬 [Framework de Investigación UX](https://github.com/TU_USUARIO_DE_GITHUB/link-al-repo-tesis)
+**Desarrollo de Tesis Académica.**
+Propuesta y despliegue de un framework SaaS web destinado a proveer herramientas de investigación para el Observatorio UX de la UTEM.
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
-![Tomás's GitHub stats](https://github-readme-stats.vercel.app/api?username=tvasquezm&show_icons=true&theme=default)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tvasquezm)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tvasquezm&layout=compact)
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Estadísticas de GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Lenguajes más usados" />
+</div>
 
 ---
 
-## 📫 Contacto
+## 📫 Contáctame
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomasvasquezm/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tmms.vasquez@gmail.com)
-
-<!-- Si tienes un portafolio web, descomenta y reemplaza el link:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://tu-portfolio.com)
--->
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tmms.vasquez@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO_DE_LINKEDIN)
